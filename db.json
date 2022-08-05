@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "a",
+      "type": "b",
+      "price": "1",
+      "brand": "c",
+      "id": 1
+    },
+    {
+      "name": "test1",
+      "type": "1",
+      "price": "1",
+      "brand": "b",
+      "id": 2
+    },
+    {
+      "name": "f",
+      "type": "g",
+      "price": "1",
+      "brand": "h",
+      "id": 3
+    },
+    {
+      "name": "c",
+      "type": "c",
+      "price": "1",
+      "brand": "c",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "type": "a",
+      "price": "11",
+      "brand": "c",
+      "id": 5
+    },
+    {
+      "name": "ff",
+      "type": "f",
+      "price": "1111",
+      "brand": "fff",
+      "id": 6
+    }
+  ]
+}
